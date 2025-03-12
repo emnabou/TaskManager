@@ -1,0 +1,4 @@
+1 Go to The GYM 0 1
+2 Go to Market 0 2
+3 Clean Home 0 3
+4 Homework 1 1
